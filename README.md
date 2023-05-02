@@ -24,9 +24,7 @@ Backend for [StatsD](https://github.com/etsy/statsd) to publish stats to Zabbix.
 
 Tested with Node 6+.
 
-```
-npm install statsd-zabbix-backend
-```
+To install it, you need to use a clone of this repository.
 
 ## Configuration
 
